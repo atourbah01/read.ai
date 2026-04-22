@@ -1,7 +1,7 @@
 # READ.AI agent
 
 ### Description
-this bot is a claude bot that recommends you book based on your own personal taste
+this bot is a claude bot that recommends you book based on your own personal taste using the claude.md file and the book.csv dataset
 
 ### Details
 the bot will ask you couple of questions to know a bit more about your own personal taste and will recommend you a book based on your own answers. The books mentioned alongside many other books that share similarities will be added to dataset and the bot will provide you the best one that suits your taste based on the combination of the answers to all your questions. (figure 2)
